@@ -1,6 +1,6 @@
 # Ruby Projects
 
-Two small command line projects written in Ruby which use a common dictionary:  Word Chains, Hangman, and Mastermind.
+Two small Ruby command line projects which use a common dictionary.
 
 ### Word Chains
 Based on rubyquiz.com #44, ["Word Chains"](http://rubyquiz.com/quiz44.html).  Word Chains takes two words of equal length as commond line arguments and builds a chain of words connecting the first to the second, if such a chain exists.  Every word in the chain must both be in the dictionary and exactly one letter different from the previous word.
